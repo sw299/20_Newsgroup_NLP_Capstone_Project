@@ -19,3 +19,5 @@ Text extraction: lsa, lda, and nnmf
 Unsupervised learning with LSA: KMeans and GaussianMixture
 Text summarization: tf_idf, calculate similarity, rank sentences based on scores
 Word2vec
+
+![3](https://user-images.githubusercontent.com/46268295/71006956-ce3fb700-20ab-11ea-97c3-2827a29d253c.png)
