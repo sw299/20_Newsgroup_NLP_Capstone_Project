@@ -1,6 +1,6 @@
 # 20_Newsgroup_NLP_Capstone_Project
 
-# Exploring and modelling the 20 Newsgroups data set
+* Exploring and modelling the 20 Newsgroups data set
 Dataset description:
 the 20 Newsgroups data set is a collection of approximately 19K newsgroup documents. The original form of this dataset is at this page: http://qwone.com/~jason/20Newsgroups/
 
