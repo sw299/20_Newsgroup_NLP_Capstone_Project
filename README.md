@@ -30,3 +30,5 @@
 * Unsupervised learning: KMeans and GaussianMixtureModel were explorated in this project and both of them are not promising for identifying news groups
 * Text summarization techniques were used and it seems works well for select the most representative sentence
 * Word2vec has worked successfully for finding similar and dissimilar words
+
+![Picture1](https://user-images.githubusercontent.com/46268295/71007515-bf0d3900-20ac-11ea-8d2f-9e9385b1a68f.png)
